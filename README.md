@@ -1,4 +1,4 @@
-getting ths error.Fix this
+
 # AI Trading Bot
 
 An automated multi-asset trading bot using daily gap-based Opening Range Breakout (ORB) strategy with trend and momentum filters. Supports backtesting on historical data and live trading via Kite/Zerodha API.
